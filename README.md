@@ -23,8 +23,14 @@ width=500
 ## Running 
 1- Download [CORA 2025](https://tumcps.github.io/CORA//pages/archive/v2025/index.html).<br />
 2- Add CORA and subfolders to the Matlab path.  <br />
-3- Add the repo folder and subfolders to the Matlab path exept "AddToCora2025".  <br />
-4- ""Add "reach_Koopman.m", "reach_LS.m", and "linReach_Koopman.m" which are in the forlder "AddToCora2025" to following folder in cora v2025":"..\CORA_2025\cora\contDynamics\@nonlinearSysDT". <br />
+3. Add this repository and all its subfolders to the MATLAB path, **except** the `AddToCora2025` folder.  
+
+4. Copy the following files from the `AddToCora2025` folder:
+   - `reach_Koopman.m`
+   - `reach_LS.m`
+   - `linReach_Koopman.m`  
+
+   into the following directory in CORA v2025: CORA_2025/cora/contDynamics/@nonlinearSysDT
 <br />
 <br />
 ## In Examples folder:<br />
