@@ -20,17 +20,11 @@ alt="Subject Pronouns"
 width=500
 />
 </p>
-
-## Files Description 
-This reposetory contaies the simulation have done in the paper.<br />
-
-
 ## Running 
 1- Download [CORA 2025](https://tumcps.github.io/CORA//pages/archive/v2025/index.html).<br />
 2- Add CORA and subfolders to the Matlab path.  <br />
 3- Add the repo folder and subfolders to the Matlab path exept "AddToCora2025".  <br />
-4- ""Add "reach_Koopman.m", "reach_LS.m", and "linReach_Koopman.m" which are in folder forlder "AddToCora2025" to following folder in cora v2025":"..\CORA_2025\cora\contDynamics\@nonlinearSysDT"<br />
-
+4- ""Add "reach_Koopman.m", "reach_LS.m", and "linReach_Koopman.m" which are in the forlder "AddToCora2025" to following folder in cora v2025":"..\CORA_2025\cora\contDynamics\@nonlinearSysDT". <br />
 <br />
 <br />
 ## In Examples folder:<br />
@@ -38,11 +32,12 @@ This reposetory contaies the simulation have done in the paper.<br />
 2- run DD_Reachability_Koopman.m for yhe example 2 in the paper (Non-affine Lipschitz dynamic system).<br />
 <br />
 <br />
-Our papers Bibtex are as follow:<br />
-```
-@article{naderi2025online,
+Our paper's BibTeX is as follows:
+
+```bibtex
+@article{naderi2026online,
   title     = {Data-Driven Reachability of Nonlinear Lipschitz Systems via Koopman Operator Embeddings},
-  author    = {Naderi Akhormeh, Alireza and Fawzy, Abdulla and Hafez, Ahmad  and Alanwar, Amr},
+  author    = {Naderi Akhormeh, Alireza and Fawzy, Abdulla and Hafez, Ahmad and Alanwar, Amr},
   journal   = {To be filled},
   year      = {2026},
   volume    = {},
@@ -50,5 +45,3 @@ Our papers Bibtex are as follow:<br />
   pages     = {},
   publisher = {}
 }
-
-```
