@@ -41,13 +41,13 @@ width=500
 Our paper's BibTeX is as follows:
 
 ```bibtex
-@article{naderi2026online,
-  title     = {Data-Driven Reachability of Nonlinear Lipschitz Systems via Koopman Operator Embeddings},
-  author    = {Naderi Akhormeh, Alireza and Fawzy, Abdulla and Hafez, Ahmad and Alanwar, Amr},
-  journal   = {To be filled},
-  year      = {2026},
-  volume    = {},
-  number    = {},
-  pages     = {},
-  publisher = {}
+@ARTICLE{Akhormeh2026-rw,
+  title         = "{Data-Driven} Reachability of Nonlinear Lipschitz Systems
+                   via Koopman Operator Embeddings",
+  author        = "Akhormeh, Alireza Naderi and Hafez, Ahmad and Fawzy, Abdulla
+                   and Alanwar, Amr",
+  year          =  2026,
+  archivePrefix = "arXiv",
+  primaryClass  = "eess.SY",
+  eprint        = "2604.00150"
 }
